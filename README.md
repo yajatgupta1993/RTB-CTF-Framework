@@ -3,6 +3,7 @@ root-the-box-ctf-framework
 
 ## To-do
  
+- [ ] Error messages not appearing in `/submit`
 - [ ] Better frontend for `home.html`
 - [ ] Finalize black theme?
 - [ ] Implement `machine.html` to server a page where one can download machines
